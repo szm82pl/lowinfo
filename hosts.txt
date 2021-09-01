@@ -1,0 +1,435 @@
+
+ #####################################################
+ ###     LOW INFORMATION FILTER // 2021.09.01     ####
+ #####################################################
+
+
+
+### WIADOMOŚCI/GLOBAL
+
+0.0.0.0 edition.cnn.com
+0.0.0.0 www.bbc.com
+0.0.0.0 www.foxnews.com
+0.0.0.0 www.latimes.com
+0.0.0.0 www.theguardian.com
+0.0.0.0 www.nytimes.com
+0.0.0.0 www.aljazeera.com
+0.0.0.0 www.reuters.com
+0.0.0.0 apnews.com
+0.0.0.0 www.rt.com
+0.0.0.0 tass.com
+0.0.0.0 xinhuanet.com
+0.0.0.0 www.newyorker.com
+0.0.0.0 www.theatlantic.com
+0.0.0.0 www.vox.com
+0.0.0.0 www.breitbart.com
+0.0.0.0 www.msn.com
+0.0.0.0 elpais.com
+0.0.0.0 www.zeit.de
+0.0.0.0 www.lefigaro.fr
+0.0.0.0 www.spiegel.de
+0.0.0.0 www.xinhuanet.com
+0.0.0.0 voiceofeurope.com
+0.0.0.0 www.independent.co.uk
+0.0.0.0 www.wsj.com
+0.0.0.0 www.forbes.com
+0.0.0.0 www.channelnewsasia.com
+0.0.0.0 www.bloomberg.com
+0.0.0.0 globalnews.ca
+0.0.0.0 www.france24.com
+0.0.0.0 abcnews.go.com
+0.0.0.0 www.politico.com
+0.0.0.0 www.politico.eu
+0.0.0.0 www.rollingstone.com
+0.0.0.0 thehill.com
+0.0.0.0 slate.com
+0.0.0.0 www.vulture.com
+0.0.0.0 www.euractiv.pl
+0.0.0.0 www.euractiv.com
+0.0.0.0 www.nbcnews.com
+0.0.0.0 www.newsnow.co.uk
+0.0.0.0 www.dailymail.co.uk
+0.0.0.0 www.mirror.co.uk
+0.0.0.0 eu.usatoday.com
+0.0.0.0 www.buzzfeednews.com
+0.0.0.0 buzzfeednews.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 www.huffpost.com
+0.0.0.0 huffpost.com
+
+
+
+### NEWS: POLAND
+
+0.0.0.0 www.onet.pl
+0.0.0.0 www.gazeta.pl
+0.0.0.0 www.goniec.net
+0.0.0.0 www.interia.pl
+0.0.0.0 www.wp.pl
+0.0.0.0 m.gazeta.pl
+0.0.0.0 m.wyborcza.pl
+0.0.0.0 wyborcza.pl
+0.0.0.0 bydgoszcz.wyborcza.pl
+0.0.0.0 m.onet.pl 
+0.0.0.0 mobile.natemat.pl
+0.0.0.0 natemat.pl
+0.0.0.0 www.wprost.pl
+0.0.0.0 www.newsweek.pl
+0.0.0.0 wiadomo.co
+0.0.0.0 www.polityka.pl
+0.0.0.0 www.dziennik.pl
+0.0.0.0 wiadomosci.dziennik.pl
+0.0.0.0 m.bankier.pl
+0.0.0.0 www.tvp.info
+0.0.0.0 tvp.info
+0.0.0.0 www.tvn24.pl
+0.0.0.0 tvn24.pl
+0.0.0.0 tvn24bis.pl
+0.0.0.0 businessinsider.com.pl
+0.0.0.0 www.bankier.pl
+0.0.0.0 www.money.pl
+0.0.0.0 forsal.pl
+0.0.0.0 wiadomosci.onet.pl
+0.0.0.0 wiadomosci.gazeta.pl
+0.0.0.0 wiadomosci.wp.pl
+0.0.0.0 fakty.interia.pl
+0.0.0.0 www.rp.pl
+0.0.0.0 www.gazetapolska.pl
+0.0.0.0 niezalezna.pl
+0.0.0.0 dorzeczy.pl
+0.0.0.0 wpolityce.pl
+0.0.0.0 kresy.pl
+0.0.0.0 metropoliabydgoska.pl
+0.0.0.0 bydgoszcz.naszemiasto.pl
+0.0.0.0 naszemiasto.pl
+0.0.0.0 bydgoszcz.wyborcza.pl
+0.0.0.0 www.tokfm.pl
+0.0.0.0 www.rmf24.pl
+0.0.0.0 www.polskieradio.pl
+0.0.0.0 www.radiozet.pl
+0.0.0.0 wiadomosci.radiozet.pl
+0.0.0.0 www.polskieradio24.pl
+0.0.0.0 tygodnikbydgoski.pl
+0.0.0.0 www.tygodnikbydgoski.pl
+0.0.0.0 www.pap.pl
+0.0.0.0 www.polsatnews.pl
+0.0.0.0 news.google.com
+0.0.0.0 news.google.pl
+0.0.0.0 polskatimes.pl
+0.0.0.0 noizz.pl
+0.0.0.0 tvnwarszawa.tvn24.pl
+0.0.0.0 next.gazeta.pl
+0.0.0.0 www.wirtualnemedia.pl
+0.0.0.0 www.energetyka24.com
+0.0.0.0 defence24.pl
+0.0.0.0 www.press.pl
+0.0.0.0 prawy.pl
+0.0.0.0 kresy24.pl
+0.0.0.0 wrealu24.pl
+0.0.0.0 wrealu24.tv
+0.0.0.0 wgospodarce.pl
+0.0.0.0 wsensie.pl
+0.0.0.0 www.wsieciprawdy.pl
+0.0.0.0 bezprawnik.pl
+0.0.0.0 niebezpiecznik.pl
+0.0.0.0 medianarodowe.com
+0.0.0.0 medianarodowe.tv
+0.0.0.0 michalkiewicz.pl
+0.0.0.0 poznan.wyborcza.pl
+0.0.0.0 torun.wyborcza.pl
+0.0.0.0 krakow.wyborcza.pl
+0.0.0.0 wroclaw.wyborcza.pl
+0.0.0.0 warszawa.wyborcza.pl
+0.0.0.0 trojmiasto.wyborcza.pl
+0.0.0.0 koduj24.pl
+0.0.0.0 oko.press
+0.0.0.0 biznesalert.pl
+0.0.0.0 www.pch24.pl
+0.0.0.0 krytykapolityczna.pl
+0.0.0.0 slomski.us
+0.0.0.0 dwagrosze.com
+0.0.0.0 pl.sputniknews.com
+0.0.0.0 sputniknews.com
+0.0.0.0 m.telewizjarepublika.pl
+0.0.0.0 telewizjarepublika.pl
+0.0.0.0 www.forbes.pl
+0.0.0.0 www.stefczyk.info
+0.0.0.0 pomorska.pl
+0.0.0.0 expressbydgoski.pl
+0.0.0.0 www.gazetaprawna.pl
+0.0.0.0 dziennikzachodni.pl
+0.0.0.0 gk24.pl
+0.0.0.0 bydgoszcz24.pl
+0.0.0.0 www.se.pl
+0.0.0.0 www.bydgoszcz.com
+0.0.0.0 dziendobry.tvn.pl
+0.0.0.0 www.fakt.pl
+0.0.0.0 belsat.eu
+0.0.0.0 300gospodarka.pl
+0.0.0.0 ziemkiewicz.info
+0.0.0.0 www.uziemkiewicza.pl
+0.0.0.0 wmeritum.pl
+0.0.0.0 polityko.com
+0.0.0.0 www.kontrowersje.net
+0.0.0.0 www.tysol.pl
+0.0.0.0 wydarzenia.interia.pl
+0.0.0.0 300polityka.pl
+0.0.0.0 m.300polityka.pl
+0.0.0.0 www.niedziela.pl
+0.0.0.0 m.niedziela.pl
+0.0.0.0 www.fronda.pl
+0.0.0.0 m.fronda.pl
+0.0.0.0 twoje-miasto.pl
+0.0.0.0 www.tvpparlament.pl
+0.0.0.0 wiadomosci.tvp.pl
+0.0.0.0 teleexpress.tvp.pl
+0.0.0.0 panorama.tvp.pl
+0.0.0.0 fakty.tvn24.pl
+0.0.0.0 bialystok.wyborcza.pl
+0.0.0.0 rzeszow.wyborcza.pl
+0.0.0.0 szczecin.wyborcza.pl
+0.0.0.0 lublin.wyborcza.pl
+0.0.0.0 glos24.pl
+0.0.0.0 nowosci.com.pl
+0.0.0.0 warszawa.naszemiasto.pl
+0.0.0.0 wiadomosci.com
+0.0.0.0 dobrewiadomosci.net.pl
+0.0.0.0 www.trojmiasto.pl
+0.0.0.0 www.eska.pl
+0.0.0.0 www.planeta.pl
+0.0.0.0 wszystkoconajwazniejsze.pl
+0.0.0.0 nczas.com
+0.0.0.0 crowdmedia.pl
+0.0.0.0 poranny.pl
+0.0.0.0 www.medonet.pl
+0.0.0.0 finanse.wp.pl
+0.0.0.0 www.dw.com
+0.0.0.0 m.dw.com
+0.0.0.0 shareinfo.pl
+0.0.0.0 www.salon24.pl
+0.0.0.0 cai24.pl
+0.0.0.0 fakenews.pl 
+0.0.0.0 albicla.com
+0.0.0.0 korwin24.pl
+0.0.0.0 theworldnews.net
+0.0.0.0 dzienna.pl
+0.0.0.0 burbonik.pl
+0.0.0.0 biznes.radiozet.pl
+0.0.0.0 subiektywnieofinansach.pl
+0.0.0.0 biznes.interia.pl
+0.0.0.0 zmianynaziemi.pl
+0.0.0.0 najwazniejsze24.pl
+0.0.0.0 propolski.pl
+0.0.0.0 www.klubinteligencjipolskiej.pl
+
+
+### NEWS: IRELAND
+
+0.0.0.0 www.northernirelandnews.com
+0.0.0.0 www.dublinnews.com
+0.0.0.0 www.irishnews.com
+0.0.0.0 www.breakingnews.ie
+0.0.0.0 www.independent.ie
+0.0.0.0 www.rte.ie
+0.0.0.0 www.thesun.ie
+0.0.0.0 www.thejournal.ie
+0.0.0.0 www.irishexaminer.com
+0.0.0.0 www.irishtimes.com
+0.0.0.0 www.northernirelandnews.com
+0.0.0.0 www.irishcentral.com
+0.0.0.0 www.mytown.ie
+0.0.0.0 www.radiokerry.ie
+0.0.0.0 www.irishpost.com
+0.0.0.0 www.echolive.ie
+0.0.0.0 www.belfasttelegraph.co.uk
+0.0.0.0 www.irishcentral.com
+0.0.0.0 www.sundayworld.com
+0.0.0.0 www.irishmirror.ie
+0.0.0.0 extra.ie
+
+
+
+### PLATFORMS & GATEWAYS
+
+0.0.0.0 web.archive.org
+0.0.0.0 jdownloader.org
+
+
+
+### "NEWS FOR MEN"
+
+0.0.0.0 menway.interia.pl
+0.0.0.0 facet.wp.pl
+0.0.0.0 www.menshealth.pl
+0.0.0.0 www.menshealth.com
+0.0.0.0 www.askmen.com
+0.0.0.0 www.maxim.com
+0.0.0.0 facet.onet.pl
+
+
+
+### PSEUDO HEALTH NEWS
+
+0.0.0.0 kobieta.onet.pl
+0.0.0.0 kobieta.interia.pl
+0.0.0.0 zdrowie.wp.pl
+0.0.0.0 zdrowie.wprost.pl
+
+
+
+### SPORT
+
+0.0.0.0 www.sport.pl
+0.0.0.0 m.sport.pl
+0.0.0.0 sportowefakty.wp.pl
+0.0.0.0 sport.onet.pl
+0.0.0.0 sport.interia.pl
+0.0.0.0 www.polsatsport.pl
+0.0.0.0 eurosport.tvn24.pl
+0.0.0.0 www.eurosportplayer.com
+0.0.0.0 tv.eurosport.pl
+0.0.0.0 www.eurosport.com
+0.0.0.0 weszlo.com
+0.0.0.0 sports.yahoo.com
+0.0.0.0 sport.radiozet.pl
+
+
+### MMA
+ 
+0.0.0.0 www.mmarocks.pl
+0.0.0.0 mma.pl
+0.0.0.0 www.mmafighting.com
+0.0.0.0 www.ufc.com
+0.0.0.0 www.bjpenn.com
+0.0.0.0 www.mmanews.com
+0.0.0.0 www.mmanews.pl
+0.0.0.0 mmajunkie.usatoday.com
+0.0.0.0 famenews.pl 
+0.0.0.0 www.sherdog.com
+0.0.0.0 www.mmamania.com
+
+
+
+### KULTURA I ROZRYWKA
+
+0.0.0.0 kultura.onet.pl
+0.0.0.0 film.wp.pl
+0.0.0.0 muzyka.wp.pl
+0.0.0.0 naekranie.pl
+0.0.0.0 film.interia.pl
+0.0.0.0 muzyka.interia.pl
+0.0.0.0 www.nme.com
+0.0.0.0 muzyka.dziennik.pl
+
+
+
+### MEMY I HEHESZKI
+
+0.0.0.0 jbzdy.pl
+0.0.0.0 m.jbzdy.pl
+0.0.0.0 m.kwejk.pl
+0.0.0.0 kwejk.pl
+0.0.0.0 paczaizm.pl
+0.0.0.0 m.demotywatory.pl
+0.0.0.0 www.wiocha.pl
+0.0.0.0 9gag.com
+0.0.0.0 m.9gag.com
+0.0.0.0 www.sadistic.pl
+0.0.0.0 m.sadistic.pl
+0.0.0.0 www.4chan.org
+0.0.0.0 joemonster.org
+0.0.0.0 m.joemonster.org
+0.0.0.0 www.wykop.pl
+0.0.0.0 jbzd.com.pl
+0.0.0.0 m.jbzd.com.pl
+0.0.0.0 9gag.com
+0.0.0.0 www.thedailybeast.com
+
+
+
+### PORTALE PLOTKARSKIE
+
+0.0.0.0 www.plotek.pl
+0.0.0.0 plejada.pl
+0.0.0.0 m.kozaczek.pl
+0.0.0.0 www.pomponik.pl
+0.0.0.0 www.o2.pl
+
+
+
+### SOCIAL MEDIA
+
+0.0.0.0 twitter.com
+0.0.0.0 m.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 pl-pl.facebook.com
+0.0.0.0 mtouch.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 pl.pinterest.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 m.youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.reddit.com
+
+
+
+### TECH
+
+0.0.0.0 antyweb.pl
+0.0.0.0 www.spidersweb.pl
+0.0.0.0 spidersweb.pl
+0.0.0.0 di.com.pl
+0.0.0.0 www.komputerswiat.pl
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 dailyweb.pl
+0.0.0.0 www.theverge.com
+0.0.0.0 www.wired.com
+0.0.0.0 wired.com
+0.0.0.0 www.tmz.com
+0.0.0.0 www.wired.co.uk
+0.0.0.0 www.pcworld.pl
+0.0.0.0 techcrunch.com
+0.0.0.0 tech.wp.pl
+0.0.0.0 www.tablety.pl
+0.0.0.0 antyapps.pl
+0.0.0.0 www.tabletowo.pl
+0.0.0.0 www.androidpolice.com
+0.0.0.0 www.dobreprogramy.pl
+0.0.0.0 homodigital.pl
+0.0.0.0 privacytools.io
+0.0.0.0 www.eff.org
+
+
+
+### "DIET WARS"
+
+0.0.0.0 fatburningman.com
+0.0.0.0 www.marksdailyapple.com
+0.0.0.0 robbwolf.com
+0.0.0.0 livinlavidalowcarb.com
+0.0.0.0 www.freetheanimal.com
+0.0.0.0 www.huntgatherlove.com
+0.0.0.0 gokaleo.com
+0.0.0.0 carbsanity.blogspot.com
+0.0.0.0 www.dietdoctor.com
+0.0.0.0 leangains.com
+
+
+
+
+### "DO PORZUCENIA"
+	
+0.0.0.0 ekskursje.pl
+0.0.0.0 nav.al
+0.0.0.0 sive.rs
+0.0.0.0 www.bartpogoda.com
+0.0.0.0 bartpogoda.net
+0.0.0.0 iwanttobeafool.com
+0.0.0.0 chrisryanphd.com
+0.0.0.0 anyakaats.com
+0.0.0.0 markmanson.net
+
